@@ -1,0 +1,15 @@
+@import "tailwindcss";
+/* color theme : rgb(77, 170, 87) */
+/* body{
+  background-color: #1a1a22;
+  color:white
+} */
+ /*
+ dark:#bb343c
+ light:#f06774
+ text:#ede4df
+ */
+body{
+  background-color: #f7cfd388;
+  color:black
+}
